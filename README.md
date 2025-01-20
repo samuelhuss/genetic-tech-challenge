@@ -25,13 +25,13 @@
 1.  Clone o repositório:
 
     ```bash
-    git clone [URL inválido removido]
+    git clone https://github.com/samuelhuss/genetic-tech-challenge.git
     ```
 
 2.  Navegue até o diretório do projeto:
 
     ```bash
-    cd NOME_DO_REPOSITORIO
+    cd genetic-tech-challenge
     ```
 
 3.  Crie um ambiente virtual (recomendado):
