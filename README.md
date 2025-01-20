@@ -42,7 +42,7 @@
     venv\Scripts\activate  # No Windows
     ```
 
-4.  Instale as dependências:
+4.  Instale as dependências
 
 ## Como Executar
 
