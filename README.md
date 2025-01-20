@@ -44,12 +44,6 @@
 
 4.  Instale as dependências:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    (Crie o arquivo `requirements.txt` com as dependências: `pip freeze > requirements.txt`)
-
 ## Como Executar
 
 1. Certifique-se de estar com o ambiente virtual ativado.
@@ -61,16 +55,8 @@
 
     (Substitua `nome_do_arquivo.py` pelo nome do arquivo principal do seu projeto.)
 
-## Exemplo de Uso
-
-(Adicione aqui um breve exemplo de como usar a interface do Streamlit, mostrando como inserir dados de demanda, configurar parâmetros e visualizar os resultados.)
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
 ## Licença
 
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT). ## Contato
+Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
 
-[Seu Nome/Organização] - [Seu Email] - [Seu GitHub Profile]
